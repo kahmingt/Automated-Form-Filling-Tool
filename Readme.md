@@ -7,18 +7,16 @@ Beware! The fields will change position on the screen after every submission thr
 
 <br>  
 
-![RPA Challenge](.Resources/RPA-Challenge.png "Image Title")
-
-
+<img src=".Resources/RPA-Challenge.png" alt="RPA Challenge Screen" />
 <br>  
+<br>  
+
 
 ## C# Console Application with Selenium
 
-<figure class="video_container">
-  <iframe src=".Resources/CSharp-Video.mp4" frameborder="0" allowfullscreen="true" height="100%">
-  </iframe>
-</figure>
-
+<img src=".Resources/CSharp-Video.gif" alt="C# automated form filling" />
 <br>  
+<br>  
+
 
 ## UiPath Robotic Process Automation
